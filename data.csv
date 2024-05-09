@@ -1,0 +1,202 @@
+date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
+
+2024-04-12,prsa,prsa,chest press,1,12,12,20
+2024-04-12,prsa,prsa,chest press,2,12,12,25
+2024-04-12,prsa,prsa,chest press,3,12,12,30
+2024-04-12,leda,leda,cable row,1,12,12,15
+2024-04-12,leda,leda,cable row,2,12,12,15
+2024-04-12,leda,leda,cable row,3,12,12,15
+2024-04-12,noge,quadriceps,leg press,1,12,12,40
+2024-04-12,noge,quadriceps,leg press,2,12,12,40
+2024-04-12,noge,quadriceps,leg press,3,12,12,40
+2024-04-12,,,hammer curl,1,12,12,15
+2024-04-12,,,hammer curl,2,12,12,15
+2024-04-12,,,rope pushdown,1,12,12,15
+2024-04-12,core,core,core rotacija,1,10,10,10
+2024-04-12,core,core,core rotacija,2,10,10,10
+
+2024-04-15,,,bb shoulder press,1,10,10,20
+2024-04-15,,,bb shoulder press,2,10,10,20
+2024-04-15,,,bb shoulder press,3,10,8,20
+2024-04-15,,,bb shoulder press,4,10,7,20
+2024-04-15,leda,leda,lat pulldown,1,10,10,10
+2024-04-15,leda,leda,lat pulldown,2,10,10,15
+2024-04-15,leda,leda,lat pulldown,3,10,10,20
+2024-04-15,noge,quadriceps,kosi leg press,1,10,10,0
+2024-04-15,noge,quadriceps,kosi leg press,2,10,10,20
+2024-04-15,noge,quadriceps,kosi leg press,3,10,10,30
+2024-04-15,noge,quadriceps,kosi leg press,4,10,10,40
+2024-04-15,,,bb curl,1,10,10,10
+2024-04-15,,,bb curl,2,10,10,15
+2024-04-15,,,bb curl,3,10,10,15
+2024-04-15,ruke,triceps,triceps pushdown,1,12,12,20
+2024-04-15,ruke,triceps,triceps pushdown,2,12,10,25
+2024-04-15,ruke,triceps,triceps pushdown,3,12,12,20
+2024-04-15,core,core,core bow,1,10,10,35
+2024-04-15,core,core,core bow,2,10,10,30
+
+2024-04-17,noge,straznja loza,rdl,1,10,10,17.5
+2024-04-17,noge,straznja loza,rdl,2,10,10,17.5
+2024-04-17,noge,straznja loza,rdl,3,10,10,17.5
+2024-04-17,,,db bugari,1,10,10,0
+2024-04-17,,,db bugari,2,10,10,0
+2024-04-17,,,db bugari,3,10,10,0
+2024-04-17,leda,leda,bb row,1,10,10,17.5
+2024-04-17,leda,leda,bb row,2,10,10,22.5
+2024-04-17,leda,leda,bb row,3,10,10,22.5
+2024-04-17,prsa,prsa,db kosi bench press,1,10,10,5
+2024-04-17,prsa,prsa,db kosi bench press,2,10,10,7.5
+2024-04-17,prsa,prsa,db kosi bench press,3,10,10,7.5
+
+2024-04-19,prsa,prsa,db kosi bench press,1,10,10,5
+2024-04-19,prsa,prsa,db kosi bench press,2,10,10,7.5
+2024-04-19,prsa,prsa,db kosi bench press,3,10,10,7.5
+2024-04-19,prsa,prsa,db kosi bench press,4,10,10,10
+2024-04-19,leda,leda,bb row,1,10,10,15
+2024-04-19,leda,leda,bb row,2,10,10,25
+2024-04-19,leda,leda,bb row,3,10,10,25
+2024-04-19,leda,leda,bb row,4,10,10,25
+2024-04-19,prsa,prsa,machine fly,1,12,12,15
+2024-04-19,prsa,prsa,machine fly,2,12,12,20
+2024-04-19,prsa,prsa,machine fly,3,12,12,20
+2024-04-19,leda,leda,lat pulldown,1,12,12,15
+2024-04-19,leda,leda,lat pulldown,2,12,12,20
+2024-04-19,leda,leda,lat pulldown,3,12,12,20
+2024-04-19,leda,leda,lat pulldown,4,12,12,20
+2024-04-19,ruke,triceps,triceps pushdown,1,12,12,10
+2024-04-19,ruke,triceps,triceps pushdown,2,12,10,10
+2024-04-19,ruke,triceps,triceps pushdown,3,12,10,10
+2024-04-19,ruke,biceps,cable biceps curl,1,12,12,10
+2024-04-19,ruke,biceps,cable biceps curl,2,12,12,15
+2024-04-19,ruke,biceps,cable biceps curl,3,12,12,20
+
+2024-04-22,noge,straznja loza,rdl,1,12,12,20
+2024-04-22,noge,straznja loza,rdl,2,12,12,20
+2024-04-22,noge,straznja loza,rdl,3,12,12,20
+2024-04-22,noge,quadriceps,kosi leg press,1,12,12,20
+2024-04-22,noge,quadriceps,kosi leg press,2,12,12,40
+2024-04-22,noge,quadriceps,kosi leg press,3,12,12,50
+2024-04-22,noge,quadriceps,kosi leg press,4,12,12,60
+2024-04-22,noge,straznja loza,leg curl,1,12,12,30
+2024-04-22,noge,straznja loza,leg curl,2,12,12,30
+2024-04-22,noge,straznja loza,leg curl,3,12,10,30
+2024-04-22,noge,straznja loza,leg curl,4,12,10,30
+2024-04-22,noge,quadriceps,leg ekstenzija,1,12,12,30
+2024-04-22,noge,quadriceps,leg ekstenzija,2,12,12,30
+2024-04-22,noge,quadriceps,leg ekstenzija,3,12,12,30
+2024-04-22,core,core,core vjezbe,1,1,1,0
+
+2024-04-24,prsa,prsa,db kosi bench press,1,12,12,5
+2024-04-24,prsa,prsa,db kosi bench press,2,10,10,7.5
+2024-04-24,prsa,prsa,db kosi bench press,3,10,10,10
+2024-04-24,prsa,prsa,db kosi bench press,4,10,10,10
+2024-04-24,leda,leda,bb row,1,12,12,17.5
+2024-04-24,leda,leda,bb row,2,10,10,22.5
+2024-04-24,leda,leda,bb row,3,10,10,27.5
+2024-04-24,leda,leda,bb row,4,10,10,27.5
+2024-04-24,prsa,prsa,machine fly,1,12,12,15
+2024-04-24,prsa,prsa,machine fly,2,12,12,20
+2024-04-24,prsa,prsa,machine fly,3,12,12,20
+2024-04-24,leda,leda,lat pulldown,1,10,10,15
+2024-04-24,leda,leda,lat pulldown,2,10,10,20
+2024-04-24,leda,leda,lat pulldown,3,10,10,20
+2024-04-24,leda,leda,lat pulldown,4,10,10,25
+2024-04-24,ruke,triceps,triceps pushdown,1,12,12,15
+2024-04-24,ruke,triceps,triceps pushdown,2,12,10,20
+2024-04-24,ruke,triceps,triceps pushdown,3,12,10,20
+2024-04-24,ruke,biceps,cable biceps curl,1,12,12,15
+2024-04-24,ruke,biceps,cable biceps curl,2,12,10,20
+2024-04-24,ruke,biceps,cable biceps curl,3,12,10,20
+
+2024-04-26,noge,straznja loza,rdl,1,12,12,20
+2024-04-26,noge,straznja loza,rdl,2,12,12,25
+2024-04-26,noge,straznja loza,rdl,3,12,12,30
+2024-04-26,noge,quadriceps,kosi leg press,1,12,12,0
+2024-04-26,noge,quadriceps,kosi leg press,2,12,12,40
+2024-04-26,noge,quadriceps,kosi leg press,3,12,12,60
+2024-04-26,noge,quadriceps,kosi leg press,4,12,12,70
+2024-04-26,noge,straznja loza,leg curl,1,12,12,30
+2024-04-26,noge,straznja loza,leg curl,2,12,12,30
+2024-04-26,noge,straznja loza,leg curl,3,12,12,30
+2024-04-26,noge,straznja loza,leg curl,4,12,12,30
+2024-04-26,noge,quadriceps,leg ekstenzija,1,12,12,30
+2024-04-26,noge,quadriceps,leg ekstenzija,2,12,12,35
+2024-04-26,noge,quadriceps,leg ekstenzija,3,12,12,35
+2024-04-26,core,core,core vjezbe,1,1,1,0
+
+2024-04-29,prsa,prsa,machine fly,1,12,12,20
+2024-04-29,prsa,prsa,machine fly,2,12,12,30
+2024-04-29,prsa,prsa,machine fly,3,12,12,30
+2024-04-29,leda,leda,lat pulldown,1,12,12,20
+2024-04-29,leda,leda,lat pulldown,2,12,12,30
+2024-04-29,leda,leda,lat pulldown,3,12,12,30
+2024-04-29,prsa,prsa,db kosi bench press,1,12,12,7.5
+2024-04-29,prsa,prsa,db kosi bench press,2,12,10,10
+2024-04-29,prsa,prsa,db kosi bench press,3,12,9,10
+2024-04-29,leda,leda,bb row,1,12,12,17.5
+2024-04-29,leda,leda,bb row,2,12,12,37.5
+2024-04-29,leda,leda,bb row,3,12,12,37.5
+2024-04-29,ruke,triceps,triceps pushdown,1,12,12,20
+2024-04-29,ruke,triceps,triceps pushdown,2,12,12,30
+2024-04-29,ruke,triceps,triceps pushdown,3,12,12,30
+2024-04-29,ruke,biceps,cable biceps curl,1,12,12,20
+2024-04-29,ruke,biceps,cable biceps curl,2,12,12,30
+2024-04-29,ruke,biceps,cable biceps curl,3,12,12,30
+
+2024-05-03,prsa,prsa,machine fly,1,12,12,20
+2024-05-03,prsa,prsa,machine fly,2,12,12,30
+2024-05-03,prsa,prsa,machine fly,3,12,12,35
+2024-05-03,leda,leda,lat pulldown,1,12,12,20
+2024-05-03,leda,leda,lat pulldown,2,12,12,30
+2024-05-03,leda,leda,lat pulldown,3,12,12,35
+2024-05-03,prsa,prsa,db kosi bench press,1,12,12,7.5
+2024-05-03,prsa,prsa,db kosi bench press,2,12,12,10
+2024-05-03,prsa,prsa,db kosi bench press,3,12,12,10
+2024-05-03,leda,leda,bb row,1,12,12,17.5
+2024-05-03,leda,leda,bb row,2,12,12,47.5
+2024-05-03,leda,leda,bb row,3,12,10,47.5
+2024-05-03,ruke,triceps,triceps pushdown direct,1,12,12,10
+2024-05-03,ruke,triceps,triceps pushdown direct,2,10,8,15
+2024-05-03,ruke,triceps,triceps pushdown direct,3,10,8,15
+2024-05-03,ruke,triceps,triceps pushdown direct,3,10,4,15
+2024-05-03,ruke,biceps,cable biceps curl,1,12,12,20
+2024-05-03,ruke,biceps,cable biceps curl,2,12,12,30
+2024-05-03,ruke,biceps,cable biceps curl,3,12,11,30
+
+2024-05-06,noge,straznja loza,rdl,1,12,12,25
+2024-05-06,noge,straznja loza,rdl,2,12,12,35
+2024-05-06,noge,straznja loza,rdl,3,12,12,35
+2024-05-06,noge,quadriceps,kosi leg press,1,12,12,0
+2024-05-06,noge,quadriceps,kosi leg press,2,12,12,50
+2024-05-06,noge,quadriceps,kosi leg press,3,12,12,70
+2024-05-06,noge,quadriceps,kosi leg press,4,12,12,80
+2024-05-06,noge,straznja loza,leg curl,1,12,12,30
+2024-05-06,noge,straznja loza,leg curl,2,12,12,35
+2024-05-06,noge,straznja loza,leg curl,3,12,12,35
+2024-05-06,noge,straznja loza,leg curl,4,12,12,35
+2024-05-06,noge,quadriceps,leg ekstenzija,1,12,12,35
+2024-05-06,noge,quadriceps,leg ekstenzija,2,12,12,40
+2024-05-06,noge,quadriceps,leg ekstenzija,3,12,12,40
+2024-05-06,core,core,side core,1,10,10,20
+2024-05-06,core,core,side core,2,10,10,20
+
+2024-05-08,prsa,prsa,db kosi bench press,1,10,10,7.5
+2024-05-08,prsa,prsa,db kosi bench press,2,10,10,10
+2024-05-08,prsa,prsa,db kosi bench press,3,10,10,12.5
+2024-05-08,prsa,prsa,db kosi bench press,4,10,10,12.5
+2024-05-08,leda,leda,bb row,1,12,12,17.5
+2024-05-08,leda,leda,bb row,2,10,10,27.5
+2024-05-08,leda,leda,bb row,3,10,10,27.5
+2024-05-08,leda,leda,bb row,4,10,10,32.5
+2024-05-08,prsa,prsa,machine fly,1,12,12,20
+2024-05-08,prsa,prsa,machine fly,2,12,12,25
+2024-05-08,prsa,prsa,machine fly,3,12,12,25
+2024-05-08,leda,leda,lat pulldown,1,10,10,20
+2024-05-08,leda,leda,lat pulldown,2,10,10,25
+2024-05-08,leda,leda,lat pulldown,3,10,10,30
+2024-05-08,ruke,triceps,triceps pushdown,1,12,12,20
+2024-05-08,ruke,triceps,triceps pushdown,2,12,12,25
+2024-05-08,ruke,triceps,triceps pushdown,3,12,12,30
+2024-05-08,ruke,biceps,cable biceps curl,1,12,12,20
+2024-05-08,ruke,biceps,cable biceps curl,2,12,12,25
+2024-05-08,ruke,biceps,cable biceps curl,3,12,12,25
