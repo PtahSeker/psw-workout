@@ -1,3 +1,7 @@
+# Resources
+
+Images are from https://www.simplyfitness.com/
+
 
 # Development
 
