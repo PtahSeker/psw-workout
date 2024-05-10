@@ -9,16 +9,16 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-04-12,noge,quadriceps,leg press,1,12,12,40
 2024-04-12,noge,quadriceps,leg press,2,12,12,40
 2024-04-12,noge,quadriceps,leg press,3,12,12,40
-2024-04-12,,,hammer curl,1,12,12,15
-2024-04-12,,,hammer curl,2,12,12,15
-2024-04-12,,,rope pushdown,1,12,12,15
+2024-04-12,ruke,biceps,hammer curl,1,12,12,15
+2024-04-12,ruke,biceps,hammer curl,2,12,12,15
+2024-04-12,ruke,triceps,triceps pushdown,1,12,12,15
 2024-04-12,core,core,core rotacija,1,10,10,10
 2024-04-12,core,core,core rotacija,2,10,10,10
 
-2024-04-15,,,bb shoulder press,1,10,10,20
-2024-04-15,,,bb shoulder press,2,10,10,20
-2024-04-15,,,bb shoulder press,3,10,8,20
-2024-04-15,,,bb shoulder press,4,10,7,20
+2024-04-15,ruke,shoulder,bb shoulder press,1,10,10,20
+2024-04-15,ruke,shoulder,bb shoulder press,2,10,10,20
+2024-04-15,ruke,shoulder,bb shoulder press,3,10,8,20
+2024-04-15,ruke,shoulder,bb shoulder press,4,10,7,20
 2024-04-15,leda,leda,lat pulldown,1,10,10,10
 2024-04-15,leda,leda,lat pulldown,2,10,10,15
 2024-04-15,leda,leda,lat pulldown,3,10,10,20
@@ -26,9 +26,9 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-04-15,noge,quadriceps,kosi leg press,2,10,10,20
 2024-04-15,noge,quadriceps,kosi leg press,3,10,10,30
 2024-04-15,noge,quadriceps,kosi leg press,4,10,10,40
-2024-04-15,,,bb curl,1,10,10,10
-2024-04-15,,,bb curl,2,10,10,15
-2024-04-15,,,bb curl,3,10,10,15
+2024-04-15,ruke,biceps,bb curl,1,10,10,10
+2024-04-15,ruke,biceps,bb curl,2,10,10,15
+2024-04-15,ruke,biceps,bb curl,3,10,10,15
 2024-04-15,ruke,triceps,triceps pushdown,1,12,12,20
 2024-04-15,ruke,triceps,triceps pushdown,2,12,10,25
 2024-04-15,ruke,triceps,triceps pushdown,3,12,12,20
@@ -38,9 +38,9 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-04-17,noge,straznja loza,rdl,1,10,10,17.5
 2024-04-17,noge,straznja loza,rdl,2,10,10,17.5
 2024-04-17,noge,straznja loza,rdl,3,10,10,17.5
-2024-04-17,,,db bugari,1,10,10,0
-2024-04-17,,,db bugari,2,10,10,0
-2024-04-17,,,db bugari,3,10,10,0
+2024-04-17,noge,quadriceps,db bugari,1,10,10,0
+2024-04-17,noge,quadriceps,db bugari,2,10,10,0
+2024-04-17,noge,quadriceps,db bugari,3,10,10,0
 2024-04-17,leda,leda,bb row,1,10,10,17.5
 2024-04-17,leda,leda,bb row,2,10,10,22.5
 2024-04-17,leda,leda,bb row,3,10,10,22.5
