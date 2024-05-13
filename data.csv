@@ -217,3 +217,24 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-05-10,noge,quadriceps,leg ekstenzija,2,12,12,40
 2024-05-10,noge,quadriceps,leg ekstenzija,3,12,12,45
 2024-05-10,core,core,core vjezbe,1,1,1,0
+
+2024-05-13,prsa,prsa,db kosi bench press,1,10,10,7.5
+2024-05-13,prsa,prsa,db kosi bench press,2,10,10,12.5
+2024-05-13,prsa,prsa,db kosi bench press,3,10,10,12.5
+2024-05-13,prsa,prsa,db kosi bench press,4,10,10,15
+2024-05-13,leda,leda,bb row,1,12,12,17.5
+2024-05-13,leda,leda,bb row,2,10,10,27.5
+2024-05-13,leda,leda,bb row,3,10,10,32.5
+2024-05-13,leda,leda,bb row,4,10,10,37.5
+2024-05-13,prsa,prsa,machine fly,1,12,12,25
+2024-05-13,prsa,prsa,machine fly,2,12,12,25
+2024-05-13,prsa,prsa,machine fly,3,12,12,25
+2024-05-13,leda,leda,lat pulldown,1,10,10,25
+2024-05-13,leda,leda,lat pulldown,2,10,10,30
+2024-05-13,leda,leda,lat pulldown,3,10,10,30
+2024-05-13,ruke,triceps,triceps pushdown,1,12,12,25
+2024-05-13,ruke,triceps,triceps pushdown,2,12,12,30
+2024-05-13,ruke,triceps,triceps pushdown,3,12,11,30
+2024-05-13,ruke,biceps,cable biceps curl,1,12,12,25
+2024-05-13,ruke,biceps,cable biceps curl,2,12,12,30
+2024-05-13,ruke,biceps,cable biceps curl,3,12,12,30
