@@ -1,6 +1,8 @@
 # Resources
 
-Images are from https://www.simplyfitness.com/
+Images are from 
+https://www.simplyfitness.com/ and
+https://gymvisual.com/
 
 
 # Development
