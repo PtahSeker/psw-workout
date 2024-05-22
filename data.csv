@@ -298,3 +298,24 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-05-20,core,core,core rotacija,2,10,10,20
 2024-05-20,core,core,core rotacija,3,10,10,25
 2024-05-20,core,core,core rotacija,4,10,10,25
+
+2024-05-22,prsa,prsa,db kosi bench press,1,10,10,10
+2024-05-22,prsa,prsa,db kosi bench press,2,10,10,12.5
+2024-05-22,prsa,prsa,db kosi bench press,3,10,10,12.5
+2024-05-22,prsa,prsa,db kosi bench press,4,10,10,12.5
+2024-05-22,leda,leda,bb row,1,12,12,27.5
+2024-05-22,leda,leda,bb row,2,10,10,37.5
+2024-05-22,leda,leda,bb row,3,10,10,37.5
+2024-05-22,leda,leda,bb row,4,10,10,40
+2024-05-22,prsa,prsa,machine fly,1,12,12,30
+2024-05-22,prsa,prsa,machine fly,2,12,12,35
+2024-05-22,prsa,prsa,machine fly,3,12,8,35
+2024-05-22,leda,leda,lat pulldown,1,10,10,30
+2024-05-22,leda,leda,lat pulldown,2,10,10,35
+2024-05-22,leda,leda,lat pulldown,3,10,10,40
+2024-05-22,ruke,triceps,triceps pushdown,1,12,12,30
+2024-05-22,ruke,triceps,triceps pushdown,2,12,12,30
+2024-05-22,ruke,triceps,triceps pushdown,3,12,9,35
+2024-05-22,ruke,biceps,cable biceps curl,1,12,12,30
+2024-05-22,ruke,biceps,cable biceps curl,2,12,12,30
+2024-05-22,ruke,biceps,cable biceps curl,3,12,10,35
