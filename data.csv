@@ -361,3 +361,45 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-05-27,ruke,biceps,cable biceps curl,1,12,12,30
 2024-05-27,ruke,biceps,cable biceps curl,2,12,12,35
 2024-05-27,ruke,biceps,cable biceps curl,3,12,11,35
+
+2024-05-29,noge,straznja loza,rdl,1,12,12,27.5
+2024-05-29,noge,straznja loza,rdl,2,10,10,37.5
+2024-05-29,noge,straznja loza,rdl,3,10,10,47.5
+2024-05-29,noge,straznja loza,rdl,3,10,10,47.5
+2024-05-29,noge,quadriceps,kosi leg press,1,12,12,80
+2024-05-29,noge,quadriceps,kosi leg press,2,10,10,90
+2024-05-29,noge,quadriceps,kosi leg press,3,10,10,100
+2024-05-29,noge,quadriceps,kosi leg press,4,10,10,110
+2024-05-29,noge,straznja loza,leg curl,1,12,12,35
+2024-05-29,noge,straznja loza,leg curl,2,12,12,40
+2024-05-29,noge,straznja loza,leg curl,3,12,12,40
+2024-05-29,noge,straznja loza,leg curl,4,12,12,40
+2024-05-29,noge,quadriceps,leg ekstenzija,1,12,12,40
+2024-05-29,noge,quadriceps,leg ekstenzija,2,12,12,45
+2024-05-29,noge,quadriceps,leg ekstenzija,3,12,12,45
+2024-05-29,noge,quadriceps,leg ekstenzija,4,12,12,50
+2024-05-29,core,core,core rotacija,1,10,10,25
+2024-05-29,core,core,core rotacija,2,10,10,25
+2024-05-29,core,core,core rotacija,3,10,10,25
+2024-05-29,core,core,core rotacija,4,10,10,25
+
+2024-06-03,noge,straznja loza,rdl,1,12,12,37.5
+2024-06-03,noge,straznja loza,rdl,2,10,10,37.5
+2024-06-03,noge,straznja loza,rdl,3,10,10,47.5
+2024-06-03,noge,straznja loza,rdl,3,10,10,47.5
+2024-06-03,noge,quadriceps,kosi leg press,1,12,12,90
+2024-06-03,noge,quadriceps,kosi leg press,2,10,10,90
+2024-06-03,noge,quadriceps,kosi leg press,3,10,10,100
+2024-06-03,noge,quadriceps,kosi leg press,4,10,10,110
+2024-06-03,noge,straznja loza,leg curl,1,12,12,35
+2024-06-03,noge,straznja loza,leg curl,2,12,12,40
+2024-06-03,noge,straznja loza,leg curl,3,12,12,40
+2024-06-03,noge,straznja loza,leg curl,4,12,10,45
+2024-06-03,noge,quadriceps,leg ekstenzija,1,12,12,40
+2024-06-03,noge,quadriceps,leg ekstenzija,2,12,12,45
+2024-06-03,noge,quadriceps,leg ekstenzija,3,12,12,45
+2024-06-03,noge,quadriceps,leg ekstenzija,4,12,12,50
+2024-06-03,core,core,core bow,1,12,12,35
+2024-06-03,core,core,core bow,2,12,12,40
+2024-06-03,core,core,core bow,3,12,12,45
+2024-06-03,core,core,core bow,4,12,12,50
