@@ -504,3 +504,87 @@ date,category,muscle_group,exercise,serie,repetitions_goal,repetitions,weight
 2024-06-17,core,core,core bow,2,12,12,45
 2024-06-17,core,core,core bow,3,12,12,50
 2024-06-17,core,core,core bow,4,12,12,55
+
+2024-06-19,prsa,prsa,db kosi bench press,1,12,12,10
+2024-06-19,prsa,prsa,db kosi bench press,2,10,10,12.5
+2024-06-19,prsa,prsa,db kosi bench press,3,10,10,15
+2024-06-19,prsa,prsa,db kosi bench press,4,10,8,17.5
+2024-06-19,leda,leda,bb row,1,12,12,37
+2024-06-19,leda,leda,bb row,2,10,10,42
+2024-06-19,leda,leda,bb row,3,10,10,42
+2024-06-19,leda,leda,bb row,4,10,10,44.5
+2024-06-19,prsa,prsa,machine fly,1,12,12,35
+2024-06-19,prsa,prsa,machine fly,2,12,12,35
+2024-06-19,prsa,prsa,machine fly,3,12,12,35
+2024-06-19,leda,leda,lat pulldown,1,10,10,35
+2024-06-19,leda,leda,lat pulldown,2,10,10,40
+2024-06-19,leda,leda,lat pulldown,3,10,10,45
+2024-06-19,ruke,triceps,triceps pushdown,1,12,12,30
+2024-06-19,ruke,triceps,triceps pushdown,2,12,12,35
+2024-06-19,ruke,triceps,triceps pushdown,3,12,12,35
+2024-06-19,ruke,biceps,cable biceps curl,1,12,12,30
+2024-06-19,ruke,biceps,cable biceps curl,2,12,12,30
+2024-06-19,ruke,biceps,cable biceps curl,3,12,12,35
+
+2024-06-21,noge,straznja loza,rdl,1,12,12,42.5
+2024-06-21,noge,straznja loza,rdl,2,10,10,42.5
+2024-06-21,noge,straznja loza,rdl,3,10,10,42.5
+2024-06-21,noge,straznja loza,rdl,3,10,10,45
+2024-06-21,noge,quadriceps,kosi leg press,1,12,12,100
+2024-06-21,noge,quadriceps,kosi leg press,2,10,10,110
+2024-06-21,noge,quadriceps,kosi leg press,3,10,10,120
+2024-06-21,noge,quadriceps,kosi leg press,4,10,10,120
+2024-06-21,noge,straznja loza,leg curl,1,12,12,45
+2024-06-21,noge,straznja loza,leg curl,2,12,12,45
+2024-06-21,noge,straznja loza,leg curl,3,12,12,45
+2024-06-21,noge,straznja loza,leg curl,4,12,12,45
+2024-06-21,noge,quadriceps,leg ekstenzija,1,12,12,45
+2024-06-21,noge,quadriceps,leg ekstenzija,2,12,12,45
+2024-06-21,noge,quadriceps,leg ekstenzija,3,12,12,50
+2024-06-21,noge,quadriceps,leg ekstenzija,4,12,12,50
+2024-06-21,core,core,core rotacija,1,10,10,25
+2024-06-21,core,core,core rotacija,2,10,10,25
+2024-06-21,core,core,core rotacija,3,10,10,35
+2024-06-21,core,core,core rotacija,4,10,10,35
+
+2024-06-24,prsa,prsa,db kosi bench press,1,12,12,10
+2024-06-24,prsa,prsa,db kosi bench press,2,10,10,12.5
+2024-06-24,prsa,prsa,db kosi bench press,3,10,10,15
+2024-06-24,prsa,prsa,db kosi bench press,4,10,10,17.5
+2024-06-24,leda,leda,bb row,1,12,12,37.5
+2024-06-24,leda,leda,bb row,2,10,10,42.5
+2024-06-24,leda,leda,bb row,3,10,10,42.5
+2024-06-24,leda,leda,bb row,4,10,10,45
+2024-06-24,prsa,prsa,machine fly,1,12,12,35
+2024-06-24,prsa,prsa,machine fly,2,12,12,35
+2024-06-24,prsa,prsa,machine fly,3,12,12,35
+2024-06-24,leda,leda,lat pulldown,1,10,10,35
+2024-06-24,leda,leda,lat pulldown,2,10,10,40
+2024-06-24,leda,leda,lat pulldown,3,10,10,45
+2024-06-24,ruke,triceps,triceps pushdown,1,12,12,30
+2024-06-24,ruke,triceps,triceps pushdown,2,12,12,35
+2024-06-24,ruke,triceps,triceps pushdown,3,12,12,35
+2024-06-24,ruke,biceps,cable biceps curl,1,12,12,30
+2024-06-24,ruke,biceps,cable biceps curl,2,12,12,30
+2024-06-24,ruke,biceps,cable biceps curl,3,12,12,35
+
+2024-06-26,noge,straznja loza,rdl,1,12,12,40
+2024-06-26,noge,straznja loza,rdl,2,10,10,45
+2024-06-26,noge,straznja loza,rdl,3,10,10,45
+2024-06-26,noge,straznja loza,rdl,3,10,10,47.5
+2024-06-26,noge,quadriceps,kosi leg press,1,12,12,100
+2024-06-26,noge,quadriceps,kosi leg press,2,10,10,110
+2024-06-26,noge,quadriceps,kosi leg press,3,10,10,120
+2024-06-26,noge,quadriceps,kosi leg press,4,10,10,130
+2024-06-26,noge,straznja loza,leg curl,1,12,12,45
+2024-06-26,noge,straznja loza,leg curl,2,12,12,45
+2024-06-26,noge,straznja loza,leg curl,3,12,12,45
+2024-06-26,noge,straznja loza,leg curl,4,12,12,45
+2024-06-26,noge,quadriceps,leg ekstenzija,1,12,12,45
+2024-06-26,noge,quadriceps,leg ekstenzija,2,12,12,45
+2024-06-26,noge,quadriceps,leg ekstenzija,3,12,12,50
+2024-06-26,noge,quadriceps,leg ekstenzija,4,12,12,55
+2024-06-26,core,core,core bow,1,12,12,45
+2024-06-26,core,core,core bow,2,12,12,50
+2024-06-26,core,core,core bow,3,12,12,55
+2024-06-26,core,core,core bow,4,12,12,60
